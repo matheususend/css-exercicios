@@ -1,0 +1,34 @@
+/* Para cada classe eu botei uma referencia do que pode ser usado para resolver uma parte ou todo o problema
+so ler e tentar enter como fuciona para usar */
+
+/* https://developer.mozilla.org/pt-BR/docs/Web/CSS/text-align */
+h1 {
+
+}
+
+/* https://css-tricks.com/snippets/css/a-guide-to-flexbox */
+.cards {
+ 
+}
+
+/* O card tem 500px por 300px */
+/* https://www.w3schools.com/css/css_border_rounded.asp */
+.card {
+  
+}
+
+.image {
+  width: 300px;
+}
+
+/* A imagem tem que ocupar a div toda */
+.image img {
+
+}
+
+/* O description tem 200px por 300px */
+/* a font tem que ter 20px */
+/* o espaço interno tem que ter 5px do lado esquedo e 10 em cima */
+/* https://developer.mozilla.org/pt-BR/docs/Web/CSS/padding */
+.description {
+}
